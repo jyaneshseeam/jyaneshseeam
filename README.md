@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jyaneshseeam
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning React native, Nodejs (MERN stack)
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me https://www.linkedin.com/in/jyanesh-s-8730a3b0/
